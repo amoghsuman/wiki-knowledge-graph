@@ -2,7 +2,7 @@ streamlit
 wikipedia
 requests
 spacy==3.7.2
-coreferee==1.4.3
+coreferee==1.1.3
 spacy-transformers==1.3.4
 networkx
 pyvis
