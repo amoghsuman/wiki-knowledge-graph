@@ -2,8 +2,5 @@ streamlit
 wikipedia
 requests
 spacy==3.5.3
-spacy-transformers==1.1.5
 networkx
 pyvis
-thinc==8.1.10
-blis==0.7.9
