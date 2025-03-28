@@ -1,0 +1,8 @@
+streamlit
+wikipedia
+requests
+spacy
+spacy-transformers
+coreferee
+networkx
+pyvis

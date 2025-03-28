@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit
+*.streamlit/
+
+# PyVis HTML output
+*.html
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
