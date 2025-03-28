@@ -6,3 +6,5 @@ spacy-transformers==1.1.5
 coreferee==1.1.3
 networkx
 pyvis
+thinc==8.1.10
+blis==0.7.9
